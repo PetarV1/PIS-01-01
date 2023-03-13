@@ -8,6 +8,6 @@ namespace PIS_01_01
 {
     class NewClass
     {
-
+        //promjena u funkciji
     }
 }
